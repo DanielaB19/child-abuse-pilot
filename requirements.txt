@@ -1,0 +1,8 @@
+pandas
+openai
+matplotlib
+seaborn
+tiktoken
+PyPDF2
+PyMuPDF
+python-docx
